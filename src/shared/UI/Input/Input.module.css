@@ -1,0 +1,17 @@
+.input {
+    width: 136px;
+    border-radius: 5px;
+    border: 1px solid var(--blue-light);
+    padding: 5px 5px;
+    outline: none;
+    font-size: 18px;
+}
+
+.input::placeholder{
+    color: var(--blue-light);
+}
+
+input::-webkit-input-placeholder,
+input::-moz-placeholder {
+    color: var(--blue-light);
+}

@@ -1,0 +1,26 @@
+.menu-list {
+    list-style: none;
+    margin-top: 3px;
+    padding-left: 5px;
+}
+
+.menu-list li {
+    color: var(--blue);
+    padding-bottom: 11px;
+}
+
+.menu-list li a {
+    color: var(--blue);
+    text-decoration: none;
+    display: block;
+    width: 235px;
+    padding-left: 10px;
+}
+
+.active {
+    padding: 5px;
+    padding-top: 8px;
+    margin-bottom: 7px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+}

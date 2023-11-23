@@ -1,0 +1,10 @@
+.h2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: var(--blue);
+    text-transform: uppercase;
+}

@@ -1,0 +1,43 @@
+.company-name {
+    display: flex;
+}
+
+.logo {
+    margin-right: 15px;
+    width: 42px;
+    height: 42px;
+    background: var(--blue);
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: 400;   
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: var(--blue-light);
+}
+
+.warehouse-accounting {
+    display: flex;
+    margin-top: 15px;
+}
+
+.warehouse-accounting svg {
+    margin-top: -5px;
+}
+
+.warehouse-accounting h2 {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.box hr {
+    width: 230px;
+    background: var(--blue);
+}
